@@ -1,0 +1,1 @@
+Repository to contains all generated code during the reading of the book: C Programming Language from authors K&R, and some other exercises related to the current subject on each chapter and it sections.
