@@ -15,4 +15,5 @@ int exercise_1_7() {
 int main() {
     exercise_1_6();
     exercise_1_7();
+    return 0;
 }
